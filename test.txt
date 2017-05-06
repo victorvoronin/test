@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Just a test
+=======
+Just not a test
+>>>>>>> master
